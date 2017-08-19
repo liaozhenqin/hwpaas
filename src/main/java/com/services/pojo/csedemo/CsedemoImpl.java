@@ -33,9 +33,7 @@ public class CsedemoImpl implements Csedemo {
 
     public String sayHi(String name) {
         String str_PageHTML;
-        str_PageHTML = "<html><img src=\\"http://qcloud.dpfile.com/pc/h986KnOwBtGha2Lh8__w_YdJZzdUqlkBX_zrUQX7rpM9Vv-K7K1lRSAtc0Rwz-
-
-rWTYGVDmosZWTLal1WbWRW3A.jpg\\"></html>";
+        str_PageHTML = "<html><img src=\\"http://qcloud.dpfile.com/pc/h986KnOwBtGha2Lh8__w_YdJZzdUqlkBX_zrUQX7rpM9Vv-K7K1lRSAtc0Rwz-rWTYGVDmosZWTLal1WbWRW3A.jpg\\"></html>";
 
         return str_PageHTML;
     }
