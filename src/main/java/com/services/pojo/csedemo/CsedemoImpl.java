@@ -33,7 +33,7 @@ public class CsedemoImpl implements Csedemo {
 
     public String sayHi(String name) {
 
-        return csedemoAgent.sayHi(name);
+        return "Say hello from Maancoffee! 20170819!";
     }
 
 
